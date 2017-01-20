@@ -7,7 +7,7 @@ fullview: true
 
 Here is just a test to see if the highlighting works as expected
 
-{% highlight cpp}
+{% highlight cpp %}
 #include <bits/stdc++.h>
 
 using namespace std;
